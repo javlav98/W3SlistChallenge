@@ -1,0 +1,20 @@
+div {
+    border-style: solid;
+    width: 300px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+ul.no-bullets {
+    text-align: left;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
